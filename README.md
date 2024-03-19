@@ -1,4 +1,4 @@
-<h1>SOC Automation Homelab</h1>
+<h1>Active Directory Homelab</h1>
 
 <h2>Description</h2>
 This project uses virtual machines to simulate an Active Directory environment implemented with Windows Server 2022, Kali Linux, Splunk as an SIEM, and a Windows 10 machine.   
